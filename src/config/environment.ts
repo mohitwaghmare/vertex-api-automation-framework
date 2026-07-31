@@ -7,5 +7,5 @@ export const environment = {
   baseUrl: process.env.BASE_URL || '',
   apiKey: process.env.API_KEY || '',
   authToken: process.env.AUTH_TOKEN || '',
-  requestTimeout: Number(process.env.REQUEST_TIMEOUT) || 30000
+  requestTimeout: Number(process.env.REQUEST_TIMEOUT) || 30000,
 };

@@ -141,3 +141,9 @@ dist
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+#Added by Me
+node_modules/
+playwright-report/
+test-results/
+.env
