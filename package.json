@@ -1,0 +1,23 @@
+{
+  "name": "vertex-api-automation-framework",
+  "version": "1.0.0",
+  "description": "Enterprise-grade API Test Automation Framework using Playwright and TypeScript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitwaghmare/vertex-api-automation-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mohitwaghmare/vertex-api-automation-framework/issues"
+  },
+  "homepage": "https://github.com/mohitwaghmare/vertex-api-automation-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.1.2"
+  }
+}
