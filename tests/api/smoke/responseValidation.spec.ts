@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';      // Import Playwright test 
 import { environment } from '../../../src/config/environment'; // Import environment configuration
 
 // Test Case
-test('Get Users from 2nd Page', async ({ request }) => {
+test('Valoidate Reponse', async ({ request }) => {
 
     // Send GET request to retrieve users from page 2
     const response = await request.get('/api/users?page=2', {
